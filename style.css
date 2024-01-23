@@ -1,0 +1,14 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 36px;
+}
+h1, h2 {
+    font-family: "Times New Roman", cursive, sans-serif;
+}
+
+th, td {
+    border: 1px solid grey;
+}
